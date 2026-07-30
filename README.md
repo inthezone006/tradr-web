@@ -1,2 +1,2 @@
-# tradesim-web
-GitHub Pages for TradeSim
+# tradr-web
+GitHub Pages for tradr
